@@ -5,7 +5,7 @@ This repository contains code to reproduce the analysis, tables, and figures for
 ---
 
 ## Repository Structure
-
+```
 App/
   app_mod_up_res.R
   models/
@@ -30,7 +30,7 @@ Meropenem/
 
 bds-dat.Rproj
 prior.csv
-
+```
 ---
 
 ## Overview
