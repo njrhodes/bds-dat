@@ -16,3 +16,10 @@ model_*.pmx*
 .DS_Store
 Thumbs.db*.exe
 *.exe
+*.tif
+*.tiff
+*.svg
+*.doc
+*.docx
+*.xls
+*.xlsx
